@@ -1,7 +1,8 @@
-# GDP and Life Expectancy Correlation
+
+![readme banner 5](https://github.com/user-attachments/assets/4f0fcaaa-5e82-40fa-b715-ab8ecf6b5112)
 
 
-The Gross Domestic Product (GDP) of a country is an influential factor in the life expectancy of individual in its population. This correlation can be measured and used in further life expectancy analysis. 
+The Gross Domestic Product (GDP) of a country is an influential factor in the life expectancy of individuals in its population. This correlation can be measured and used in further life expectancy analysis to identify causal relationships. 
 
 ## SQL
 ### Upload GDP and Life Expectancy data to BigQuery
@@ -293,4 +294,4 @@ theme(axis.text.x = element_text(angle = 45, hjust = 1)) # Rotate x-axis labels 
 print(plot)
 ````
 ## Conclusion
-GDP is an important factor that affects life expectancy. This analysis measured the correlation and between countries and across time. This data can be used to control for the GDP factor when conducting analysis of life expectancy and measuring alternative factors. 
+GDP is an important factor that affects life expectancy in some countries. This analysis measured the correlation between countries and across time. This data can be used to control for the GDP factor when conducting analysis of life expectancy and measuring alternative factors. 
